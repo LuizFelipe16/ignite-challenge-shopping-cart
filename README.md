@@ -1,39 +1,123 @@
-# Project ShoppingCart
+![Banner](/public/banner.png)
 
-#### created directly by rocketseat as an Ignite challenge, that's my conclusion to this amazing challenge.
+<br/>
 
-- `Challenge`: create a shopping cart for a fully functional fake shoe store with context using a fake API.
+# Shopping Cart
 
-- `Tools`: *ReactJS* & *Typescript* & *JsonServer*
+### Ignite Challenge Project! Create a shopping cart for a fully functional fake shoe store with context using a fake API.
 
-| How to get started
+<br/>
+<br/>
 
-1. download the repository and run the yarn command on the folder.
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/) ![Badge](https://img.shields.io/static/v1?label=MadeWith&message=TypeScript&color=OO7accstyle=for-the-badge&logo=ghost) ![Badge](https://img.shields.io/static/v1?label=Usage&message=ReactJS&color=007accstyle=for-the-badge&logo=ghost) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
-2. run yarn dev and yarn server.
+<br/>
+<br/>
 
-3. open the application on localhost:8080.
+🛠 Technologies
+=================
+The following tools were used in building the project:
 
-4. have fun, just like I did when I programmed.
+- 👉 [ReactJS](https://pt-br.reactjs.org/)
+- 👉 [TypeScript](https://www.typescriptlang.org/)
+- 👉 [Styled Components](https://styled-components.com)
+- 👉 [Axios](https://axios-http.com/docs/intro)
+- 👉 [JSON Server](https://www.npmjs.com/package/json-server)
+- 👉 [Jest](https://jestjs.io/pt-BR/)
+- 👉 [React Icons](https://react-icons.github.io/react-icons)
+- 👉 [React Toastify](https://fkhadra.github.io/react-toastify/introduction/)
 
-____________________________________________________________________
+<br/>
 
-# PT-BR 
+<p align="center">
+  🚧  Project Status 🚀 Complete!  🚧
+</p>
+<br/>
 
-## Projeto ShoppingCart
+Getting Started
+=================
 
-#### criado diretamente pela rocketseat como um desafio do Ignite, essa é a minha conclusão desse desafio incrível.
+These instructions will get you a copy of the full project up and running on your local machine for development and testing purposes.
 
-- `Desafio`: criar um carrinho de compras para uma loja fake de sapatos totalmente funcional com context usando uma API fake.
+The project can be built with npm or yarn, so choose one of the approach bellow in case you don't have any installed on your system.
 
-- `Ferramentas`: *ReactJS* & *Typescript* & *JsonServer*
+- Npm is distributed with Node.js which means that when you download Node.js, you automatically get npm installed on your computer. [Node.js](https://nodejs.org/en/)
 
-| Como iniciar
+- Yarn is a package manager built by Facebook Team and seems to be faster than npm in general.
 
-1. baixe o repositório e execute o comando yarn na pasta.
+<br/>
 
-2. execute yarn dev e yarn server.
+Features 
+=================
+<br/>
 
-3. abra a aplicação em localhost:8080.
+- [x] ✅ Add a new product to the cart;
+- [x] ✅ Remove a product from the cart;
+- [x] ✅ Change the quantity of a product in the cart;
+- [x] ✅ Calculation of sub-total and total cart prices;
+- [x] ✅ Stock validation;
+- [x] ✅ Error message display;
+- [x] ✅ JSON Server to simulate an API that has product and stock information;
+- [x] ✅ Preserve cart data even if application is closed with localStorage;
+- [x] ✅ Notify user actions with react toastify.
 
-4. divirta-se, assim como eu quando programei.
+<br/>
+
+How to Install
+=================
+
+- To download the project follow the instructions bellow:
+
+```bash
+1. git clone 
+2. cd ignite-challenge-shopping-cart
+```
+
+- Install the dependencies and start the server:
+
+```bash
+3. yarn
+4. yarn dev and yarn server
+```
+- or
+
+```bash
+3. npm install
+4. npm run dev and npm run server
+```
+
+- Have fun just like me while programming
+
+<br/>
+
+Screen Shots
+=================
+
+- Home
+
+![ScreenShot](/public/home.png)
+
+<br/>
+
+- Home Add Items
+
+![ScreenShot](/public/addcart.png)
+
+<br/>
+
+- Shopping Cart
+
+![ScreenShot](/public/cart.png)
+
+<br/>
+
+Author
+=================
+
+Luiz Felipe S. Felizatti 🎯 
+
+Contact:
+
+- [Linkedin](https://www.linkedin.com/in/luiz-felipe-siqueira-felizatti-00783a1ab/)
+
+- [Instagram](https://www.instagram.com/luiz_2fs/)
